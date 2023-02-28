@@ -7,12 +7,12 @@ Utiliszing HTML5, CSS and JavaScript as languages while also being bale to handl
 
 Sub A -
 * /pages/Homepage.html
-/pages\Contactform.html
-/pages\Description.html
-/pages\JobPropsects.html
-/pages\Modifications.html
-/pages\Third-parties.html
-/pages\UsesofJavaScript.html
+* /pages\Contactform.html
+* /pages\Description.html
+* /pages\JobPropsects.html
+* /pages\Modifications.html
+* /pages\Third-parties.html
+* /pages\UsesofJavaScript.html
 
 Sub B - 
-\CSS\style.css
+* \CSS\style.css
