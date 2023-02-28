@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description" content="JavaScript">
+	<meta name="keywords" content="HTML, CSS, JavaScript">
+	<meta name="author" content="Majid">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Form</title>
+<link rel="stylesheet" href="/CSS/style.css">
+
+<link rel="icon" type="image/x-icon" href="/misc/favicon-32x32.png">
+
+</head>
+<body>
+
+<section class="Page" id="Page">
+	<nav class="sidenav">
+        <h1 class="PageTitle"> ⮚ Contact</h1>
+		<div class="line1"></div>
+		<div class="menu">
+			<ul class="menu-list">
+                <li class="menu-item"><a href="/Pages/Homepage.html" class="menu-link">Home page</a></li>
+				<li class="menu-item"><a href="/Pages/Modifications.html" class="menu-link">Modifications</a></li>
+				<li class="menu-item"><a href="/Pages/Description.html" class="menu-link">Description</a></li>
+				<li class="menu-item"><a href="/Pages/JobProspects.html" class="menu-link">Job Prospect</a></li>
+				<li class="menu-item"><a href="/Pages/Third-Parties.html" class="menu-link">Third-Parties</a></li>
+				<li class="menu-item"><a href="/Pages/UsesofJavaScript.html" class="menu-link">Uses of JavaScript</a></li>
+
+			</ul>
+            <h1 class="Pagebottom">
+				<img src="/Images/JavaScript_logo_.svg.png" alt="JavaScript image">
+			</h1>
+		</div>
+	</nav>
+	<section class="mainpage" id="mainpage">
+		<div class="Burger" id="Burger">
+			<div class="Burger-menu"></div>
+		</div>
+        <label class="switch">
+			<input class="switch__input" type="checkbox" data-theme-toggle>
+			<span class="switch__slider"></span>
+		  </label>
+		<div class="container">
+
+
+					<h1 class="title Heading">Feedback Form</h1>
+                    <div class="form">
+                        <form >
+                            <br />
+                            First name : <br />
+                            <input type = "text" name = "First_name" placeholder="Your First name.."/>
+                            <br>
+                            First name : <br />
+                            <input type = "text" name = "last_name" placeholder="Your Last name.."/>
+                            <br />
+                            
+
+                            Gender: <br />
+                            <select class="dropdown" name = "dropdown">
+                                <option value = "Male" selected>Male</option>
+                                <option value = "Female">Female</option>
+                             </select>
+                            <br />
+
+                            Contact Form : <br />
+                            <textarea id="subject" name="subject" placeholder="Your opinion..." style="height:80px"></textarea>
+                            <br />
+                            Was this website informative? <br />
+                            <input type = "radio" name = "subject" value = "maths"> Yes
+                            <br />
+                            <input type = "radio" name = "subject" value = "physics"> No
+                            <br />
+                            <div class="submitbtn">
+                            <button type="text" class="submit">submit</button>
+                            </div>
+            
+                         </form>
+            
+                    </div>
+  <script  src="/JavaScript/JavaScript.js"></script>
+  <script  src="/JavaScript/ThemeChanger.js"></script>
+</body>
+</html>
