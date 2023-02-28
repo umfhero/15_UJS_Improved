@@ -3,7 +3,7 @@
 Unit 15 Assignment 2 Website Imrpoved:
 Utiliszing HTML5, CSS and JavaScript as languages while also being bale to handle directories, refrencing to Sub files such as the stylesheet and managing contents such as images.
 
-# Directories - Main branch,:
+# Directories - Main branch:
 
 Sub A -
 /pages/Homepage.html
