@@ -15,7 +15,6 @@
 :root {
   --color-2: #333;
   --color-1: #ffffff;
-
 }
 
 body {
@@ -34,6 +33,7 @@ body {
   font-size: 50px;
   padding-left: 4%;
   padding-top: 13px;
+  font-weight: 700;
 
 }
 
