@@ -16,3 +16,7 @@ Sub A -
 
 Sub B - 
 * \CSS\style.css
+
+Sub C - 
+* \JavaScript\JavaScript.js
+* \JavaScript\ThemeChanger.js
