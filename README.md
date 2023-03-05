@@ -6,7 +6,7 @@ Utiliszing HTML5, CSS and JavaScript as languages while also being bale to handl
 # Directories - Main branch:
 
 Sub A -
-* /pages/index.html
+* /pages/homepage.html
 * /pages/Contactform.html
 * /pages/Description.html
 * /pages/JobPropsects.html
